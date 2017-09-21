@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="34px" viewBox="0 0 69 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(1.000000, 1.000000)">
+            <g id="Group">
+                <g id="Play-Button-Copy">
+                    <path d="M16,0 C24.8363636,0 32,7.0990991 32,15.8558559 C32,24.6129009 24.8363636,31.7117117 16,31.7117117 C7.16334545,31.7117117 0,24.6126126 0,15.8558559 C0,7.09881081 7.16334545,0 16,0 L16,0 Z" id="Shape" stroke="#FFFFFF"></path>
+                    <polygon id="Shape" fill="#FFFFFF" points="21.6239161 16.1431351 12.2413793 21.6196036 12.2413793 16.0435207 12.2413793 10.6666667"></polygon>
+                </g>
+                <g id="Play-Button-Copy" transform="translate(35.000000, 0.000000)">
+                    <path d="M16,0 C24.8363636,0 32,7.0990991 32,15.8558559 C32,24.6129009 24.8363636,31.7117117 16,31.7117117 C7.16334545,31.7117117 0,24.6126126 0,15.8558559 C0,7.09881081 7.16334545,0 16,0 L16,0 Z" id="Shape" stroke="#1733FB"></path>
+                    <polygon id="Shape" fill="#1733FB" points="12.2413793 21.6196036 12.2413793 16.0435207 12.2413793 10.6666667 21.6239161 16.1431351"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

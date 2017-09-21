@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)$ http://inland.studio/work/vital-and-living-finland-2020/ [R=301]

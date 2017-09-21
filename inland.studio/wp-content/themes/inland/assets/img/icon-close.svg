@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="42px" viewBox="0 0 146 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill-rule="nonzero">
+            <g id="close" transform="translate(52.000000, 0.000000)" fill="#1D91FB">
+                <polygon id="Shape" points="42 4.23 37.77 0 21 16.77 4.23 0 0 4.23 16.77 21 0 37.77 4.23 42 21 25.23 37.77 42 42 37.77 25.23 21"></polygon>
+            </g>
+            <g id="close" fill="#1733FB">
+                <polygon id="Shape" points="42 4.23 37.77 0 21 16.77 4.23 0 0 4.23 16.77 21 0 37.77 4.23 42 21 25.23 37.77 42 42 37.77 25.23 21"></polygon>
+            </g>
+            <g id="close" transform="translate(104.000000, 0.000000)" fill="#1DDEFB">
+                <polygon id="Shape" points="42 4.23 37.77 0 21 16.77 4.23 0 0 4.23 16.77 21 0 37.77 4.23 42 21 25.23 37.77 42 42 37.77 25.23 21"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
